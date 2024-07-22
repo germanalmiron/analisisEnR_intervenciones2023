@@ -1,5 +1,5 @@
 # analisis_En_R_intervenciones2023_STJ
-Este proyecto analiza un dataset de "intervenciones realizadas en 2023" disponible en la plataforma de datos abiertos del Ministerio de Justicia y Derechos Humanos de la Nación Argentina, accesible en datos.jus.gob.ar con R.
+Este proyecto analiza un dataset de "intervenciones realizadas en 2023" disponible en la plataforma de datos abiertos del Ministerio de Justicia y Derechos Humanos de la Nación Argentina, accesible en datos.jus.gob.ar con la herramienta R.
 
 =>Limpieza y Preprocesamiento:
 
